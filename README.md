@@ -5,7 +5,7 @@ Analyzing marketing data and doing a linear regression to develop a future marke
 1. Data loading
 2. Feature engineering
 3. Exploratory Data Analysis and Statistical Analysis
-4. Creating and exporting output data in csv files 
+4. Creating and exporting output data in csv format
 ## Linear regression methodology
 From the given marketing data we selected 'Amount Collected' as our target variable and 'Campaign (Email)', 'Campaign (Flyer)', 'Campaign (Phone)',
 'Sales Contact 1', 'Sales Contact 2', 'Sales Contact 3', 'Sales Contact 4', 'Sales Contact 5' as our predictor variables
